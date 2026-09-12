@@ -1,79 +1,226 @@
 [
- {
-  "file": "reel-01.mp4",
-  "original": "30גרםחלבוןאינסטגרם.mp4",
-  "bytes": 78011898,
-  "mb": 74.4,
-  "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-01.mp4"
- },
- {
-  "file": "reel-02.mov",
-  "original": "fb427907f2dd47b3921bcb3051e9ef19.mov",
-  "bytes": 13834840,
-  "mb": 13.2,
-  "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-02.mov"
- },
- {
-  "file": "reel-03.mp4",
-  "original": "ארוחהלמסהארוחהלחיטוב.mp4",
-  "bytes": 20920762,
-  "mb": 20,
-  "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-03.mp4"
- },
- {
-  "file": "reel-04.mp4",
-  "original": "ארוחהמשמינהארוחהמחטבת.mp4",
-  "bytes": 17283537,
-  "mb": 16.5,
-  "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-04.mp4"
- },
- {
-  "file": "reel-05.mp4",
-  "original": "ארוחתבוקרארוחתערבחטיפיםעםקו.mp4",
-  "bytes": 14666064,
-  "mb": 14,
-  "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-05.mp4"
- },
- {
-  "file": "reel-06.mp4",
-  "original": "הרחקת ירך עם מכונה וריאציות - גרסה 1 - כל הפלטפורמות.mp4",
-  "bytes": 14811546,
-  "mb": 14.1,
-  "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-06.mp4"
- },
- {
-  "file": "reel-07.mp4",
-  "original": "לחיצתחזהכנגדמכונהאינסטגרם-1.mp4",
-  "bytes": 35279871,
-  "mb": 33.6,
-  "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-07.mp4"
- },
- {
-  "file": "reel-08.mp4",
-  "original": "משיכהמלמעלהפתיחחדשאינסטגרם.mp4",
-  "bytes": 25504273,
-  "mb": 24.3,
-  "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-08.mp4"
- },
- {
-  "file": "reel-09.mp4",
-  "original": "סלט טונה לפי המטרה - גרסה 1 - כל הפלטפורמות.mp4",
-  "bytes": 26236036,
-  "mb": 25,
-  "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-09.mp4"
- },
- {
-  "file": "reel-10.mp4",
-  "original": "סנדוויץחביתהלמסהחיטוב.mp4",
-  "bytes": 24965870,
-  "mb": 23.8,
-  "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-10.mp4"
- },
- {
-  "file": "reel-11.mp4",
-  "original": "פירותחיטובמסה.mp4",
-  "bytes": 12668071,
-  "mb": 12.1,
-  "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-11.mp4"
- }
+    {
+        "file":  "reel-01.mp4",
+        "original":  "30גרםחלבוןאינסטגרם.mp4",
+        "bytes":  78011898,
+        "mb":  74.4,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-01.mp4"
+    },
+    {
+        "file":  "reel-02.mov",
+        "original":  "fb427907f2dd47b3921bcb3051e9ef19.mov",
+        "bytes":  13834840,
+        "mb":  13.2,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-02.mov"
+    },
+    {
+        "file":  "reel-03.mp4",
+        "original":  "ארוחהלמסהארוחהלחיטוב.mp4",
+        "bytes":  20920762,
+        "mb":  20,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-03.mp4"
+    },
+    {
+        "file":  "reel-04.mp4",
+        "original":  "ארוחהמשמינהארוחהמחטבת.mp4",
+        "bytes":  17283537,
+        "mb":  16.5,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-04.mp4"
+    },
+    {
+        "file":  "reel-05.mp4",
+        "original":  "ארוחתבוקרארוחתערבחטיפיםעםקו.mp4",
+        "bytes":  14666064,
+        "mb":  14,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-05.mp4"
+    },
+    {
+        "file":  "reel-06.mp4",
+        "original":  "הרחקת ירך עם מכונה וריאציות - גרסה 1 - כל הפלטפורמות.mp4",
+        "bytes":  14811546,
+        "mb":  14.1,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-06.mp4"
+    },
+    {
+        "file":  "reel-07.mp4",
+        "original":  "לחיצתחזהכנגדמכונהאינסטגרם-1.mp4",
+        "bytes":  35279871,
+        "mb":  33.6,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-07.mp4"
+    },
+    {
+        "file":  "reel-08.mp4",
+        "original":  "משיכהמלמעלהפתיחחדשאינסטגרם.mp4",
+        "bytes":  25504273,
+        "mb":  24.3,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-08.mp4"
+    },
+    {
+        "file":  "reel-09.mp4",
+        "original":  "סלט טונה לפי המטרה - גרסה 1 - כל הפלטפורמות.mp4",
+        "bytes":  26236036,
+        "mb":  25,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-09.mp4"
+    },
+    {
+        "file":  "reel-10.mp4",
+        "original":  "סנדוויץחביתהלמסהחיטוב.mp4",
+        "bytes":  24965870,
+        "mb":  23.8,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-10.mp4"
+    },
+    {
+        "file":  "reel-11.mp4",
+        "original":  "פירותחיטובמסה.mp4",
+        "bytes":  12668071,
+        "mb":  12.1,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-11.mp4"
+    },
+    {
+        "file":  "reel-12.mp4",
+        "original":  "4A1B3E03-9BB0-4D4E-8D5D-5B70852A90EB.MP4",
+        "bytes":  3239954,
+        "mb":  3.1,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-12.mp4"
+    },
+    {
+        "file":  "reel-13.mp4",
+        "original":  "57636C77-174E-461A-BA78-C4EC2BAE77C7.mp4",
+        "bytes":  12051913,
+        "mb":  11.5,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-13.mp4"
+    },
+    {
+        "file":  "reel-14.mp4",
+        "original":  "ארוחותמחטבותמשמינות.mp4",
+        "bytes":  20946761,
+        "mb":  20,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-14.mp4"
+    },
+    {
+        "file":  "reel-15.mp4",
+        "original":  "ארוחת צהריים עשירה בקלוריות אומתאימה לחיטוב - גרסה 1 - כל הפלטפורמות.mp4",
+        "bytes":  15644616,
+        "mb":  14.9,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-15.mp4"
+    },
+    {
+        "file":  "reel-16.mp4",
+        "original":  "בוקרצהרייםערבחטיפיםסופי.mp4",
+        "bytes":  12079390,
+        "mb":  11.5,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-16.mp4"
+    },
+    {
+        "file":  "reel-17.mp4",
+        "original":  "בחירות לירידה ולעלייה במשקל - גרסה 1 - כל הפלטפורמות.mp4",
+        "bytes":  31958993,
+        "mb":  30.5,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-17.mp4"
+    },
+    {
+        "file":  "reel-18.mp4",
+        "original":  "בריאמשמיןבריאמורידעםקו.mp4",
+        "bytes":  10747228,
+        "mb":  10.2,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-18.mp4"
+    },
+    {
+        "file":  "reel-19.mp4",
+        "original":  "ויזואלישולחןמחשבוןאינסטגרם.mp4",
+        "bytes":  42686374,
+        "mb":  40.7,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-19.mp4"
+    },
+    {
+        "file":  "reel-20.mp4",
+        "original":  "חלבוניםמחטביםמשמינים.mp4",
+        "bytes":  0,
+        "mb":  0,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-20.mp4"
+    },
+    {
+        "file":  "reel-21.mp4",
+        "original":  "חלבוניםרעיםחלבוניטיקטוקםטובים.mp4",
+        "bytes":  21917391,
+        "mb":  20.9,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-21.mp4"
+    },
+    {
+        "file":  "reel-22.mp4",
+        "original":  "טובלמסהטובלחיטוב.mp4",
+        "bytes":  8934729,
+        "mb":  8.5,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-22.mp4"
+    },
+    {
+        "file":  "reel-23.mp4",
+        "original":  "כפיפת בטן עם כדור בוסו - גרסה 1 - אינסטגרם.mp4",
+        "bytes":  20869098,
+        "mb":  19.9,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-23.mp4"
+    },
+    {
+        "file":  "reel-24.mp4",
+        "original":  "כריך ביצה לפי המטרה - גרסה 1 - כל הפלטפורמות.mp4",
+        "bytes":  39012661,
+        "mb":  37.2,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-24.mp4"
+    },
+    {
+        "file":  "reel-25.mp4",
+        "original":  "לאכולבריאולרדתלאכולבריאולעלותיוטיוב.mp4",
+        "bytes":  31979141,
+        "mb":  30.5,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-25.mp4"
+    },
+    {
+        "file":  "reel-26.mp4",
+        "original":  "להתחטבלהשמין.mp4",
+        "bytes":  11948050,
+        "mb":  11.4,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-26.mp4"
+    },
+    {
+        "file":  "reel-27.mp4",
+        "original":  "לעלותולהוריד - גרסה 1 - כל הפלטפורמות.mp4",
+        "bytes":  19752265,
+        "mb":  18.8,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-27.mp4"
+    },
+    {
+        "file":  "reel-28.mp4",
+        "original":  "סופלה שוקולד - Trial Reel 9x16.mp4",
+        "bytes":  2583858,
+        "mb":  2.5,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-28.mp4"
+    },
+    {
+        "file":  "reel-29.mp4",
+        "original":  "פחמימות חלבונים ושומנים - גרסה 3 - אינסטגרם.mp4",
+        "bytes":  18147292,
+        "mb":  17.3,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-29.mp4"
+    },
+    {
+        "file":  "reel-30.mp4",
+        "original":  "פרפרלחזהב מכונה - גרסה 1 - כל הפלטפורמות.mp4",
+        "bytes":  0,
+        "mb":  0,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-30.mp4"
+    },
+    {
+        "file":  "reel-31.mp4",
+        "original":  "רילסקליללהכנה.mp4",
+        "bytes":  6392649,
+        "mb":  6.1,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-31.mp4"
+    },
+    {
+        "file":  "reel-32.mp4",
+        "original":  "רקלהשמיןלהתחטב.mp4",
+        "bytes":  17781208,
+        "mb":  17,
+        "url":  "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-32.mp4"
+    }
 ]
