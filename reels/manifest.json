@@ -43,7 +43,16 @@
         "raw_file": "reel-05.mp4",
         "raw_url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-05.mp4",
         "audio": "ducked",
-        "track": "Yonatan Riklis - Melancholia.wav"
+        "track": "Yonatan Riklis - Melancholia.wav",
+        "variants": [
+            {
+                "file": "reel-05v2.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-05v2.mp4",
+                "track": "Ben Fox - In Between",
+                "audio": "ducked",
+                "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            }
+        ]
     },
     {
         "file": "reel-06m.mp4",
@@ -269,7 +278,16 @@
         "raw_file": "reel-28.mp4",
         "raw_url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-28.mp4",
         "audio": "music",
-        "track": "Kevin Graham - Valence.mp3"
+        "track": "Kevin Graham - Valence.mp3",
+        "variants": [
+            {
+                "file": "reel-28v2.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-28v2.mp4",
+                "track": "Jessie Reid - Time Goes By",
+                "audio": "music",
+                "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            }
+        ]
     },
     {
         "file": "reel-29m.mp4",
@@ -347,7 +365,16 @@
         "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-36.mp4",
         "source": "Instagram CDN copy of the posted reel, downloaded 2026-10-04",
         "audio": "cdn-burned",
-        "track": "Dollshade - King Walk.mp3"
+        "track": "Dollshade - King Walk.mp3",
+        "variants": [
+            {
+                "file": "reel-36v2.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-36v2.mp4",
+                "track": "Taheda - Nuclear",
+                "audio": "music",
+                "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            }
+        ]
     },
     {
         "file": "reel-37.mp4",
@@ -357,7 +384,16 @@
         "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-37.mp4",
         "source": "Instagram CDN copy of the posted reel, downloaded 2026-10-04",
         "audio": "cdn-burned",
-        "track": "Taheda - Nuclear.mp3"
+        "track": "Taheda - Nuclear.mp3",
+        "variants": [
+            {
+                "file": "reel-37v2.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-37v2.mp4",
+                "track": "Dollshade - King Walk",
+                "audio": "music",
+                "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            }
+        ]
     },
     {
         "file": "reel-38m.mp4",
