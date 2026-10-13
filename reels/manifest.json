@@ -74,7 +74,16 @@
         "raw_file": "reel-07.mp4",
         "raw_url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-07.mp4",
         "audio": "ducked",
-        "track": "Upbeat Funk Vlog 5 tracks by Infraction [No Copyright Music]  Vintage Car.mp3"
+        "track": "Upbeat Funk Vlog 5 tracks by Infraction [No Copyright Music]  Vintage Car.mp3",
+        "variants": [
+            {
+                "file": "reel-07v2.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-07v2.mp4",
+                "track": "Upbeat Funk Vlog 5 tracks by Infraction [No Copyright Music] Vintage Car",
+                "audio": "music",
+                "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            }
+        ]
     },
     {
         "file": "reel-08m.mp4",
@@ -210,7 +219,16 @@
         "raw_file": "reel-21.mp4",
         "raw_url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-21.mp4",
         "audio": "ducked",
-        "track": "Ben Fox - In Between.mp3"
+        "track": "Ben Fox - In Between.mp3",
+        "variants": [
+            {
+                "file": "reel-21v2.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-21v2.mp4",
+                "track": "Ben Fox - In Between",
+                "audio": "music",
+                "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            }
+        ]
     },
     {
         "file": "reel-22m.mp4",
@@ -267,7 +285,16 @@
         "raw_file": "reel-27.mp4",
         "raw_url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-27.mp4",
         "audio": "music",
-        "track": "Bishara Haroni - Gymnopédie No 1.wav"
+        "track": "Bishara Haroni - Gymnopédie No 1.wav",
+        "variants": [
+            {
+                "file": "reel-27v2.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-27v2.mp4",
+                "track": "Bishara Haroni - Gymnop?die No 1",
+                "audio": "music",
+                "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            }
+        ]
     },
     {
         "file": "reel-28m.mp4",
@@ -284,6 +311,13 @@
                 "file": "reel-28v2.mp4",
                 "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-28v2.mp4",
                 "track": "Jessie Reid - Time Goes By",
+                "audio": "music",
+                "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            },
+            {
+                "file": "reel-28v3.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-28v3.mp4",
+                "track": "Kevin Graham - Valence",
                 "audio": "music",
                 "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
             }
@@ -373,6 +407,13 @@
                 "track": "Taheda - Nuclear",
                 "audio": "music",
                 "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            },
+            {
+                "file": "reel-36v3.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-36v3.mp4",
+                "track": "Dollshade - King Walk",
+                "audio": "music",
+                "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
             }
         ]
     },
@@ -390,6 +431,13 @@
                 "file": "reel-37v2.mp4",
                 "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-37v2.mp4",
                 "track": "Dollshade - King Walk",
+                "audio": "music",
+                "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            },
+            {
+                "file": "reel-37v3.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-37v3.mp4",
+                "track": "Taheda - Nuclear",
                 "audio": "music",
                 "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
             }
@@ -417,7 +465,16 @@
         "raw_file": "reel-39.mp4",
         "raw_url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-39.mp4",
         "audio": "ducked",
-        "track": "Idan Balas - Tune for a Mountain.mp3"
+        "track": "Idan Balas - Tune for a Mountain.mp3",
+        "variants": [
+            {
+                "file": "reel-39v2.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-39v2.mp4",
+                "track": "Idan Balas - Tune for a Mountain",
+                "audio": "music",
+                "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            }
+        ]
     },
     {
         "file": "reel-40.mp4",
