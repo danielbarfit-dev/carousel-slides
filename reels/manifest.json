@@ -63,7 +63,19 @@
         "raw_file": "reel-06.mp4",
         "raw_url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-06.mp4",
         "audio": "ducked",
-        "track": "Yoed Nir - Into the Dark.mp3"
+        "track": "Yoed Nir - Into the Dark.mp3",
+        "variants": [
+            {
+                "file": "reel-06-1025-fri-07.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-06-1025-fri-07.mp4",
+                "track": "Jessie Reid - Time Goes By.mp3",
+                "audio": "ducked",
+                "bytes": 14566943,
+                "use": "2026-10-25 winner replica, same weekday and hour, different licensed music",
+                "measured": "2026-10-10",
+                "created": "2026-10-15"
+            }
+        ]
     },
     {
         "file": "reel-07m.mp4",
@@ -82,6 +94,16 @@
                 "track": "Upbeat Funk Vlog 5 tracks by Infraction [No Copyright Music] Vintage Car",
                 "audio": "music",
                 "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            },
+            {
+                "file": "reel-07-1025-sat-07.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-07-1025-sat-07.mp4",
+                "track": "Ori Kaplan - Insomniac.mp3",
+                "audio": "ducked",
+                "bytes": 34752452,
+                "use": "2026-10-25 winner replica, same weekday and hour, different licensed music",
+                "measured": "2026-10-10",
+                "created": "2026-10-15"
             }
         ]
     },
@@ -140,7 +162,19 @@
         "raw_file": "reel-13.mp4",
         "raw_url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-13.mp4",
         "audio": "music",
-        "track": "Jessie Reid - Time Goes By.mp3"
+        "track": "Jessie Reid - Time Goes By.mp3",
+        "variants": [
+            {
+                "file": "reel-13-1025-wed-13.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-13-1025-wed-13.mp4",
+                "track": "TannyTeeY - Usawomera feat Blastfemi - Instrumental version.mp3",
+                "audio": "music",
+                "bytes": 12192189,
+                "use": "2026-10-25 winner replica, same weekday and hour, different licensed music",
+                "measured": "2026-10-10",
+                "created": "2026-10-15"
+            }
+        ]
     },
     {
         "file": "reel-14.mp4",
@@ -227,6 +261,16 @@
                 "track": "Ben Fox - In Between",
                 "audio": "music",
                 "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            },
+            {
+                "file": "reel-21-1025-fri-17.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-21-1025-fri-17.mp4",
+                "track": "Jeremy Chontow - Hive Mind.mp3",
+                "audio": "ducked",
+                "bytes": 21557167,
+                "use": "2026-10-25 winner replica, same weekday and hour, different licensed music",
+                "measured": "2026-10-10",
+                "created": "2026-10-15"
             }
         ]
     },
@@ -293,6 +337,16 @@
                 "track": "Bishara Haroni - Gymnop?die No 1",
                 "audio": "music",
                 "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            },
+            {
+                "file": "reel-27-1025-thu-16.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-27-1025-thu-16.mp4",
+                "track": "ZISO - HELL FM.mp3",
+                "audio": "music",
+                "bytes": 19471940,
+                "use": "2026-10-25 winner replica, same weekday and hour, different licensed music",
+                "measured": "2026-10-10",
+                "created": "2026-10-15"
             }
         ]
     },
@@ -320,6 +374,26 @@
                 "track": "Kevin Graham - Valence",
                 "audio": "music",
                 "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            },
+            {
+                "file": "reel-28-1025-wed-10.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-28-1025-wed-10.mp4",
+                "track": "Camille Trust - Trigger.mp3",
+                "audio": "music",
+                "bytes": 3024121,
+                "use": "2026-10-25 winner replica, same weekday and hour, different licensed music",
+                "measured": "2026-10-10",
+                "created": "2026-10-15"
+            },
+            {
+                "file": "reel-28-1025-sat-10.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-28-1025-sat-10.mp4",
+                "track": "Adi Goldstein - Quiet Rain.mp3",
+                "audio": "music",
+                "bytes": 3021236,
+                "use": "2026-10-25 winner replica, same weekday and hour, different licensed music",
+                "measured": "2026-10-10",
+                "created": "2026-10-15"
             }
         ]
     },
@@ -332,7 +406,19 @@
         "raw_file": "reel-29.mp4",
         "raw_url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-29.mp4",
         "audio": "ducked",
-        "track": "ZISO - HELL FM.mp3"
+        "track": "ZISO - HELL FM.mp3",
+        "variants": [
+            {
+                "file": "reel-29-1025-sat-15.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-29-1025-sat-15.mp4",
+                "track": "Sam Lux - Voyage.mp3",
+                "audio": "ducked",
+                "bytes": 17838861,
+                "use": "2026-10-25 winner replica, same weekday and hour, different licensed music",
+                "measured": "2026-10-10",
+                "created": "2026-10-15"
+            }
+        ]
     },
     {
         "file": "reel-30m.mp4",
@@ -414,6 +500,16 @@
                 "track": "Dollshade - King Walk",
                 "audio": "music",
                 "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            },
+            {
+                "file": "reel-36-1025-fri-10.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-36-1025-fri-10.mp4",
+                "track": "Adi Goldstein - Quiet Rain.mp3",
+                "audio": "music",
+                "bytes": 19907699,
+                "use": "2026-10-25 winner replica, same weekday and hour, different licensed music",
+                "measured": "2026-10-10",
+                "created": "2026-10-15"
             }
         ]
     },
@@ -440,6 +536,16 @@
                 "track": "Taheda - Nuclear",
                 "audio": "music",
                 "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            },
+            {
+                "file": "reel-37-1025-fri-08.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-37-1025-fri-08.mp4",
+                "track": "Sam Lux - Voyage.mp3",
+                "audio": "music",
+                "bytes": 19919906,
+                "use": "2026-10-25 winner replica, same weekday and hour, different licensed music",
+                "measured": "2026-10-10",
+                "created": "2026-10-15"
             }
         ]
     },
@@ -473,6 +579,16 @@
                 "track": "Idan Balas - Tune for a Mountain",
                 "audio": "music",
                 "use": "replica of a hit, 6.10 rule: same post same weekday+hour, different music"
+            },
+            {
+                "file": "reel-39-1025-wed-11.mp4",
+                "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-39-1025-wed-11.mp4",
+                "track": "Kevin Graham - Valence.mp3",
+                "audio": "ducked",
+                "bytes": 1630100,
+                "use": "2026-10-25 winner replica, same weekday and hour, different licensed music",
+                "measured": "2026-10-10",
+                "created": "2026-10-15"
             }
         ]
     },
