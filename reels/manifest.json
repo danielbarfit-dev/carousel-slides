@@ -19,20 +19,28 @@
         "audio": "native"
     },
     {
-        "file": "reel-03.mp4",
+        "file": "reel-03m.mp4",
         "original": "ארוחהלמסהארוחהלחיטוב.mp4",
-        "bytes": 20920762,
-        "mb": 20,
-        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-03.mp4",
-        "audio": "native"
+        "bytes": 20600891,
+        "mb": 19.6,
+        "sha256": "c56d0c4f2fcb29f6265d6f395f471189c766433a101a26e6ba085e415e28a5d8",
+        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/65df98f0d48054727f47d4aa05ef4b9bf407897b/reels/reel-03m.mp4",
+        "audio": "music",
+        "track": "DJ-Malka - Goya - Instrumental version.mp3",
+        "previous_file": "reel-03.mp4",
+        "previous_audio": "native (silent)"
     },
     {
-        "file": "reel-04.mp4",
+        "file": "reel-04m.mp4",
         "original": "ארוחהמשמינהארוחהמחטבת.mp4",
-        "bytes": 17283537,
-        "mb": 16.5,
-        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-04.mp4",
-        "audio": "native"
+        "bytes": 17012278,
+        "mb": 16.2,
+        "sha256": "60c38c61e85c575fcd22a1edc812eec71913816d73f21dda1a25e4220f19e0a6",
+        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/65df98f0d48054727f47d4aa05ef4b9bf407897b/reels/reel-04m.mp4",
+        "audio": "music",
+        "track": "Camille Trust - Trigger.mp3",
+        "previous_file": "reel-04.mp4",
+        "previous_audio": "native (silent)"
     },
     {
         "file": "reel-05m.mp4",
@@ -125,28 +133,40 @@
         "track": "Jeremy Chontow - Hive Mind.mp3"
     },
     {
-        "file": "reel-09.mp4",
+        "file": "reel-09m.mp4",
         "original": "סלט טונה לפי המטרה - גרסה 1 - כל הפלטפורמות.mp4",
-        "bytes": 26236036,
-        "mb": 25,
-        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-09.mp4",
-        "audio": "native"
+        "bytes": 25831173,
+        "mb": 24.6,
+        "sha256": "360170492f04a31a86c7184063254e74e287cb390fad6f5fa31e043c3a784532",
+        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/65df98f0d48054727f47d4aa05ef4b9bf407897b/reels/reel-09m.mp4",
+        "audio": "music",
+        "track": "Yonatan Riklis - Melancholia.wav",
+        "previous_file": "reel-09.mp4",
+        "previous_audio": "native (silent)"
     },
     {
-        "file": "reel-10.mp4",
+        "file": "reel-10m.mp4",
         "original": "סנדוויץחביתהלמסהחיטוב.mp4",
-        "bytes": 24965870,
-        "mb": 23.8,
-        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-10.mp4",
-        "audio": "native"
+        "bytes": 24577057,
+        "mb": 23.4,
+        "sha256": "2e1af497753e5bd95c6999184986cf9b79debe75d226005e915c091c66019b83",
+        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/65df98f0d48054727f47d4aa05ef4b9bf407897b/reels/reel-10m.mp4",
+        "audio": "music",
+        "track": "Jeremy Chontow - Hive Mind.mp3",
+        "previous_file": "reel-10.mp4",
+        "previous_audio": "native (silent)"
     },
     {
-        "file": "reel-11.mp4",
+        "file": "reel-11m.mp4",
         "original": "פירותחיטובמסה.mp4",
-        "bytes": 12668071,
-        "mb": 12.1,
-        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-11.mp4",
-        "audio": "native"
+        "bytes": 12474098,
+        "mb": 11.9,
+        "sha256": "1a570739a937ebb563f42f932b64153d61fcef2a47070809fcce3418fcabe343",
+        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/65df98f0d48054727f47d4aa05ef4b9bf407897b/reels/reel-11m.mp4",
+        "audio": "music",
+        "track": "Sam Lux - Voyage.mp3",
+        "previous_file": "reel-11.mp4",
+        "previous_audio": "native (silent)"
     },
     {
         "file": "reel-12m-a2.mp4",
@@ -186,12 +206,16 @@
         ]
     },
     {
-        "file": "reel-14.mp4",
+        "file": "reel-14m.mp4",
         "original": "ארוחותמחטבותמשמינות.mp4",
-        "bytes": 20946761,
-        "mb": 20,
-        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-14.mp4",
-        "audio": "native"
+        "bytes": 20628007,
+        "mb": 19.7,
+        "sha256": "4a3db69cb6665b865d09bebd9b315756287387800c5bc319335fb6b62d7b4334",
+        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/65df98f0d48054727f47d4aa05ef4b9bf407897b/reels/reel-14m.mp4",
+        "audio": "music",
+        "track": "Adi Goldstein - Quiet Rain.mp3",
+        "previous_file": "reel-14.mp4",
+        "previous_audio": "native (silent)"
     },
     {
         "file": "reel-15m.mp4",
@@ -227,12 +251,16 @@
         "track": "Yonatan Riklis - Melancholia.wav"
     },
     {
-        "file": "reel-18.mp4",
+        "file": "reel-18m.mp4",
         "original": "בריאמשמיןבריאמורידעםקו.mp4",
-        "bytes": 10747228,
-        "mb": 10.2,
-        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-18.mp4",
-        "audio": "native"
+        "bytes": 10571301,
+        "mb": 10.1,
+        "sha256": "2f8b6f25f05461bcecd56dce6aeb0bcb997e0ea6eb961c96da485115bfd5e184",
+        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/65df98f0d48054727f47d4aa05ef4b9bf407897b/reels/reel-18m.mp4",
+        "audio": "music",
+        "track": "Kevin Graham - Valence.mp3",
+        "previous_file": "reel-18.mp4",
+        "previous_audio": "native (silent)"
     },
     {
         "file": "reel-19m-a2.mp4",
@@ -249,26 +277,31 @@
         "previous_track": "Upbeat Funk Vlog 5 tracks by Infraction [No Copyright Music]  Vintage Car.mp3"
     },
     {
-        "file": "reel-20.mp4",
+        "file": "reel-20m.mp4",
         "original": "חלבוניםמחטביםמשמינים.mp4",
-        "bytes": 0,
-        "mb": 0,
-        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-20.mp4",
-        "audio": "native"
+        "bytes": 9038966,
+        "mb": 8.6,
+        "sha256": "280306b2ccaa85764a15d5b6defbfdf164fd49b6e59fe2aa4547cf944f0eb26d",
+        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/65df98f0d48054727f47d4aa05ef4b9bf407897b/reels/reel-20m.mp4",
+        "audio": "music",
+        "track": "ZISO - HELL FM.mp3",
+        "previous_file": "reel-20.mp4",
+        "previous_audio": "native (silent)"
     },
     {
-        "file": "reel-21m-a2.mp4",
+        "file": "reel-21m-a3.mp4",
         "original": "חלבוניםרעיםחלבוניטיקטוקםטובים.mp4",
-        "bytes": 21547989,
-        "mb": 20.5,
-        "sha256": "1cd01fd891e8deb170a811845108e8f60533c130fef5d839a3fd7a05ed7f4c65",
-        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/2348ff37e09c9a134a5199ca3c03c1dd2bb31555/reels/reel-21m-a2.mp4",
+        "bytes": 21556264,
+        "mb": 20.6,
+        "sha256": "f6ff446987c926d5da335f892fa726b75c7ec45fb70eafe3d2ebb34f95565199",
+        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/65df98f0d48054727f47d4aa05ef4b9bf407897b/reels/reel-21m-a3.mp4",
         "raw_file": "reel-21.mp4",
         "raw_url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-21.mp4",
         "audio": "ducked",
         "track": "Adi Goldstein - Quiet Rain.mp3",
         "previous_file": "reel-21m.mp4",
         "previous_track": "Ben Fox - In Between.mp3",
+        "bed_lowered_from": "reel-21m-a2.mp4 (same source and track, ducked bed 8 dB lower, 2026-10-28)",
         "variants": [
             {
                 "file": "reel-21v2.mp4",
@@ -315,12 +348,16 @@
         "track": "Jessie Reid - Time Goes By.mp3"
     },
     {
-        "file": "reel-24.mp4",
+        "file": "reel-24m.mp4",
         "original": "כריך ביצה לפי המטרה - גרסה 1 - כל הפלטפורמות.mp4",
-        "bytes": 39012661,
-        "mb": 37.2,
-        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-24.mp4",
-        "audio": "native"
+        "bytes": 38443010,
+        "mb": 36.7,
+        "sha256": "567a3aaa4ddb8b134d8a2e1e5c9839965a115fb1d598ca48d041b9ab684748a1",
+        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/65df98f0d48054727f47d4aa05ef4b9bf407897b/reels/reel-24m.mp4",
+        "audio": "music",
+        "track": "Ori Kaplan - Insomniac.mp3",
+        "previous_file": "reel-24.mp4",
+        "previous_audio": "native (silent)"
     },
     {
         "file": "reel-25.mp4",
@@ -331,12 +368,16 @@
         "audio": "native"
     },
     {
-        "file": "reel-26.mp4",
+        "file": "reel-26m.mp4",
         "original": "להתחטבלהשמין.mp4",
-        "bytes": 11948050,
-        "mb": 11.4,
-        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-26.mp4",
-        "audio": "native"
+        "bytes": 11764368,
+        "mb": 11.2,
+        "sha256": "d32393c75a49a506a19ddd59409caf01bf545d70a231f4fc97cb7ac15d77713e",
+        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/65df98f0d48054727f47d4aa05ef4b9bf407897b/reels/reel-26m.mp4",
+        "audio": "music",
+        "track": "TannyTeeY - Usawomera feat Blastfemi - Instrumental version.mp3",
+        "previous_file": "reel-26.mp4",
+        "previous_audio": "native (silent)"
     },
     {
         "file": "reel-27m-a2.mp4",
@@ -416,7 +457,10 @@
                 "measured": "2026-10-10",
                 "created": "2026-10-15"
             }
-        ]
+        ],
+        "retired": true,
+        "retired_on": "2026-10-28",
+        "retired_by": "Daniel keep/remove page"
     },
     {
         "file": "reel-29m.mp4",
@@ -464,12 +508,16 @@
         "track": "TannyTeeY - Usawomera feat Blastfemi - Instrumental version.mp3"
     },
     {
-        "file": "reel-32.mp4",
+        "file": "reel-32m.mp4",
         "original": "רקלהשמיןלהתחטב.mp4",
-        "bytes": 17781208,
-        "mb": 17,
-        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-32.mp4",
-        "audio": "native"
+        "bytes": 17510512,
+        "mb": 16.7,
+        "sha256": "1a5227495c7f9eab932729ff6686e3655aa44667cd687bdccdf5ca48a95ea654",
+        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/65df98f0d48054727f47d4aa05ef4b9bf407897b/reels/reel-32m.mp4",
+        "audio": "music",
+        "track": "Captain Joz - Haunted - No Lead Vocals.mp3",
+        "previous_file": "reel-32.mp4",
+        "previous_audio": "native (silent)"
     },
     {
         "file": "reel-33.mp4",
@@ -481,22 +529,30 @@
         "audio": "native"
     },
     {
-        "file": "reel-34.mp4",
+        "file": "reel-34m.mp4",
         "original": "טוסטמשמיןטוסטמחטב.mp4",
-        "bytes": 6298583,
-        "mb": 6.0,
-        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-34.mp4",
+        "bytes": 7201750,
+        "mb": 6.9,
+        "sha256": "ab833b33e1239306af8ec1c7d1de878b9d3d529776a459daa1136f148760f6de",
+        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/65df98f0d48054727f47d4aa05ef4b9bf407897b/reels/reel-34m.mp4",
         "source": "Instagram CDN copy of the posted reel, downloaded 2026-10-04",
-        "audio": "native"
+        "audio": "music",
+        "track": "Sam Lux - Voyage.mp3",
+        "previous_file": "reel-34.mp4",
+        "previous_audio": "native (silent)"
     },
     {
-        "file": "reel-35.mp4",
+        "file": "reel-35m.mp4",
         "original": "מורידבמשקלאמורידבמשקלסטייקים.mp4",
-        "bytes": 3170964,
-        "mb": 3.0,
-        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-35.mp4",
+        "bytes": 3579904,
+        "mb": 3.4,
+        "sha256": "c59fe035bbf2bfbc53e991d626284f25623bd1ae70967d60ab1928946929700e",
+        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/65df98f0d48054727f47d4aa05ef4b9bf407897b/reels/reel-35m.mp4",
         "source": "Instagram CDN copy of the posted reel, downloaded 2026-10-04",
-        "audio": "native"
+        "audio": "music",
+        "track": "Jessie Reid - Time Goes By.mp3",
+        "previous_file": "reel-35.mp4",
+        "previous_audio": "native (silent)"
     },
     {
         "file": "reel-36-a2.mp4",
@@ -535,7 +591,10 @@
                 "measured": "2026-10-10",
                 "created": "2026-10-15"
             }
-        ]
+        ],
+        "retired": true,
+        "retired_on": "2026-10-28",
+        "retired_by": "Daniel keep/remove page"
     },
     {
         "file": "reel-37.mp4",
@@ -571,7 +630,10 @@
                 "measured": "2026-10-10",
                 "created": "2026-10-15"
             }
-        ]
+        ],
+        "retired": true,
+        "retired_on": "2026-10-28",
+        "retired_by": "Daniel keep/remove page"
     },
     {
         "file": "reel-38m-a2.mp4",
@@ -623,22 +685,30 @@
         ]
     },
     {
-        "file": "reel-40.mp4",
+        "file": "reel-40m.mp4",
         "original": "לאכולבריאולרדתאולעלותסלט.mp4",
-        "bytes": 6247083,
-        "mb": 6.0,
-        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-40.mp4",
+        "bytes": 7111008,
+        "mb": 6.8,
+        "sha256": "fcfcfbe5ee93f732f5f5895694c5a0a380b876b31421d131371ddcc35d317b94",
+        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/65df98f0d48054727f47d4aa05ef4b9bf407897b/reels/reel-40m.mp4",
         "source": "Instagram CDN copy of the posted reel, downloaded 2026-10-04",
-        "audio": "native"
+        "audio": "music",
+        "track": "Taheda - Nuclear.mp3",
+        "previous_file": "reel-40.mp4",
+        "previous_audio": "native (silent)"
     },
     {
-        "file": "reel-41.mp4",
+        "file": "reel-41m.mp4",
         "original": "פחמימותלחיטובפחמימותלמסה.mp4",
-        "bytes": 1770629,
-        "mb": 1.7,
-        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/main/reels/reel-41.mp4",
+        "bytes": 2141812,
+        "mb": 2.0,
+        "sha256": "fda01e008ee831d8ed1d4c2a92e11033daf3bae5603b395fd189d6ad489a5314",
+        "url": "https://raw.githubusercontent.com/danielbarfit-dev/carousel-slides/65df98f0d48054727f47d4aa05ef4b9bf407897b/reels/reel-41m.mp4",
         "source": "Instagram CDN copy of the posted reel, downloaded 2026-10-04",
-        "audio": "native"
+        "audio": "music",
+        "track": "Adi Goldstein - Quiet Rain.mp3",
+        "previous_file": "reel-41.mp4",
+        "previous_audio": "native (silent)"
     },
     {
         "file": "choices-v2-reedit.mp4",
@@ -661,7 +731,10 @@
         "duration_seconds": 20.966667,
         "sha256": "b0de0bf45344db1f002081c7ae730d0c1ceb0c628f888186fddbe9816fed6966",
         "source": "RE2 approved RE1b look, own-source teaser and licensed bed, 2026-10-15",
-        "approved_sample_reused": true
+        "approved_sample_reused": true,
+        "retired": true,
+        "retired_on": "2026-10-28",
+        "retired_by": "Daniel keep/remove page"
     },
     {
         "file": "quantities-v1-reedit.mp4",
@@ -684,7 +757,10 @@
         "duration_seconds": 20.533333,
         "sha256": "9fcfc44ae61d44ad0917a201d91146240b08e5e16fbaa06074a57f5863ea3947",
         "source": "RE2 approved RE1b look, own-source teaser and licensed bed, 2026-10-15",
-        "approved_sample_reused": true
+        "approved_sample_reused": true,
+        "retired": true,
+        "retired_on": "2026-10-28",
+        "retired_by": "Daniel keep/remove page"
     },
     {
         "file": "healthy-goal-reedit.mp4",
@@ -914,7 +990,10 @@
         "duration_seconds": 32.766667,
         "sha256": "a6af4ad75b3642c823952f4a3396518596bc4d568d848a9aa5ec26583b0a14a9",
         "source": "RE2 approved RE1b look, own-source teaser and licensed bed, 2026-10-15",
-        "approved_sample_reused": false
+        "approved_sample_reused": false,
+        "retired": true,
+        "retired_on": "2026-10-28",
+        "retired_by": "Daniel keep/remove page"
     },
     {
         "file": "egg-sandwich-reedit.mp4",
@@ -960,7 +1039,10 @@
         "duration_seconds": 24.034,
         "sha256": "22448c11383b64519cb5798e0e242ab15b8a000ad3e8aa936d81dc7bc1f69b08",
         "source": "RE2 approved RE1b look, own-source teaser and licensed bed, 2026-10-15",
-        "approved_sample_reused": false
+        "approved_sample_reused": false,
+        "retired": true,
+        "retired_on": "2026-10-28",
+        "retired_by": "Daniel keep/remove page"
     },
     {
     "file": "chocolate-souffle-reedit-b.mp4",
@@ -983,7 +1065,10 @@
     "duration_seconds": 19.133333,
     "sha256": "00b727a4ab2164e50af66a2a9811858b208e9d23ba0d8384147bfd6ed8558e62",
     "source": "RE2 approved RE1b look, own-source teaser and licensed bed, 2026-10-15",
-    "approved_sample_reused": false
+    "approved_sample_reused": false,
+    "retired": true,
+    "retired_on": "2026-10-28",
+    "retired_by": "Daniel keep/remove page"
 },
     {
         "file": "healthy-details-reedit.mp4",
@@ -1052,7 +1137,10 @@
         "duration_seconds": 17.066667000000002,
         "sha256": "a1eb52f1e1df903905994e3be5aefdb1fdc8d073f99b3971431c053d03ba4c18",
         "source": "RE2 approved RE1b look, own-source teaser and licensed bed, 2026-10-15",
-        "approved_sample_reused": false
+        "approved_sample_reused": false,
+        "retired": true,
+        "retired_on": "2026-10-28",
+        "retired_by": "Daniel keep/remove page"
     },
     {
         "file": "cooked-food-weight-reedit.mp4",
